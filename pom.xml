@@ -100,6 +100,7 @@
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.6.0</version>
         <configuration>
+	<executable>C:\Program Files\Java\jdk1.8.0_151\bin\javac.exe</executable>
           <source>1.8</source>
           <target>1.8</target> 
         </configuration> 
